@@ -1,0 +1,1 @@
+Checks the given folder for copyright assets. WIP.
